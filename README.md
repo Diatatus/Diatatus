@@ -1,34 +1,26 @@
-<h1 align="center">Hi 👋, I'm Laminou</h1>
-<h3 align="center">A passionate GIS software development</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+### Hi there 👋, my name is Laminou
+#### I am a Geospatial Developer
+![I am a Geospatial Developer](https://nebula-stag.s3.amazonaws.com/uploads/category/image/46/gis-banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diatatus&label=Profile%20views&color=0e75b6&style=flat" alt="diatatus" /> </p>
+I am passionate about GIS and the impact it represents as decision-making information. I use opensource solutions such as OpenLayers and Leaflet in my projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diatatus" alt="diatatus" /></a> </p>
+Skills: Node JS / JS / HTML / CSS
 
-<p align="left"> <a href="https://twitter.com/@diatatus" target="blank"><img src="https://img.shields.io/twitter/follow/@diatatus?logo=twitter&style=for-the-badge" alt="@diatatus" /></a> </p>
+- 🔭 I’m currently working on https://github.com/Diatatus/webmap_project 
+- 🌱 I’m currently learning Many courses online related to GIS development 
+- 📫 How to reach me: mohamadou055@gmail.com 
 
-- 🔭 I’m currently working on [my_first_webmap_project](https://github.com/Diatatus/webmap_project)
 
-- 🌱 I’m currently learning **Node.js**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Diatatus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamadou-laminou-558063197//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/diatatus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21522389/mohamadou-laminou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCRCQnrJXDmUhbzxfcowgvOA)  
 
-- 📫 How to reach me **mohamadou055@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Diatatus)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📄 Know about my experiences [Surveying engineer, I am currently training in software engineering in an Institute](Surveying engineer, I am currently training in software engineering in an Institute)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Diatatus)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@diatatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@diatatus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamadou laminou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamadou laminou" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21522389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21522389" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mohamadoulaminou4477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mohamadoulaminou4477" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Diatatus&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Diatatus)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diatatus&show_icons=true&locale=en&layout=compact" alt="diatatus" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Diatatus)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diatatus&show_icons=true&locale=en" alt="diatatus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diatatus&" alt="diatatus" /></p>
+![Profile views](https://gpvc.arturio.dev/https://github.com/Diatatus)  
