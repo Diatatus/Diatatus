@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://nebula-stag.s3.amazonaws.com/uploads/category/image/46/gis-banner.jpg" align="center" style="width: 100%" />
 </div> 
-<h3 align="center">A passionate GIS software development</h3>
+<h3 align="center">A passionate GIS software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diatatus&label=Profile%20views&color=0e75b6&style=flat" alt="diatatus" /> </p>
 
@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [my_first_webmap_project](https://github.com/Diatatus/webmap_project)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mohamadou055@gmail.com**
 
-- 📄 Know about my experiences [Surveying engineer, I am currently training in software engineering in an Institute](Surveying engineer, I am currently training in software engineering in an Institute)
+- 📄 Know about my experiences [Surveying engineer, work as a GIS developer]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
